@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/10ZAKUM0kJxHWhSAG7VCTlFC-_lMpntSl/view](https://drive.google.com/file/d/10ZAKUM0kJxHWhSAG7VCTlFC-_lMpntSl/view)
 
-- ⚡ Fun fact **{<progress> never stop </progress>}**
+- ⚡ Fun fact {<progress> never stop </progress>}
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
